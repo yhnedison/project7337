@@ -1,0 +1,6 @@
+levenshtein distanc calcul
+for exampl:fast to cat = 3
+cat to dog = 3
+string 1:
+string 2:
+distanc =

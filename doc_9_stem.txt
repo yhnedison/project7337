@@ -1,0 +1,15 @@
+exampl link, februari 2017
+how mani distinct url ar here?
+../
+../index.htm
+http://lyle.smu.edu/~fmoor/index.htm
+http://lyle.smu.edu/~fmoor/
+http://lyle.smu.edu/~fmoor
+item 1 and 2 ar rel url which must be resolv by the browser to an absolut url.
+item 1 is the same as #4, and #2 is the same as #3.
+item 4 specifi a directori (i.e. the trail slash notat).
+doe the server permit directori list?
+is there a default file to return (e.g. index.html)?
+item 5 appear to specifi a file (with no extens).
+the server attempt to return the file, but find it as a directori.
+thu code 303 is gener befor convert the "file" to a "directori" and process it.
