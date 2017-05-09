@@ -1,6 +1,0 @@
-Levenshtein Distance calculator
-For example:FAST to CATS = 3
-CATS to DOGS = 3
-String 1:
-String 2:
-Distance =

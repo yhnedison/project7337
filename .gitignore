@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+doc_*.txt
+dictionary.txt
+./.idea
